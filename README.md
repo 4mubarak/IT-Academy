@@ -1,3 +1,3 @@
-##Online School Website
+## Online IT School Website
 
-#IT-Academy
+## it-academy-seven.vercel.app
